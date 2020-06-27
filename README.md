@@ -10,6 +10,9 @@ Go ahead and download the training and testing dataset from the link given [Driv
 ## Directory structure 
 <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Healthy-Prediction/blob/master/dataset/dir.PNG" width="400">
 
+## Sample of Dataset images
+<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/output/output-gif.gif" width="400">
+
 ## Visualization and Model evaluation
 
 |   model_loss      |   model_acc      |
