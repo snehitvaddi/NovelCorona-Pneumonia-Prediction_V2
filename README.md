@@ -13,7 +13,7 @@ Go ahead and download the training and testing dataset from the link given [Driv
 ## Sample of Dataset images
 <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Healthy-Prediction/blob/master/dataset/a2.png" width="400">
 
-## Visualization and Model evaluation
+## Model evaluation and Visualization
 
 |   model_loss      |   model_acc      |
   |------------|-------------|
