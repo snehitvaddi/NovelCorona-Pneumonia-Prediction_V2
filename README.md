@@ -1,4 +1,4 @@
-# COVID-19 / Pneumonia /Normal Prediction Version-2.
+# COVID-19 / Pneumonia /Normal Prediction Version-1.
 
 Predicting Noval Corona, Pneumonia, Healthy from X-ray scans using Keras and Scikit Learn.
 Right now the world is in the fear of Noval Coronavirus (COVID-19). By this time, there are approximately 3.12 Million. The COVID-19  virus spreads by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. This could happen either by direct close contact with an infected person or by indirect contact like the droplets on surfaces and clothes.
