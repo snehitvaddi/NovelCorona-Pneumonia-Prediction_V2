@@ -1,4 +1,4 @@
-# COVID-19 / Pneumonia / Normal Prediction using Deep Learning.
+# COVID-19 / Pneumonia /Normal Prediction Version-2.
 
 Predicting Noval Corona, Pneumonia, Healthy from X-ray scans using Keras and Scikit Learn.
 Right now the world is in the fear of Noval Coronavirus (COVID-19). By this time, there are approximately 3.12 Million. The COVID-19  virus spreads by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. This could happen either by direct close contact with an infected person or by indirect contact like the droplets on surfaces and clothes.
@@ -21,7 +21,7 @@ Go ahead and download the training and testing dataset from the link given [Driv
   
 ## Conclusion : 
 To this end, I am making my code, model, and results available here [Code](https://jovian.ml/v-snehith999/corona-pneumonia-normal-keras).
-https://jovian.ml/v-snehith999<br>
+<br>
 * I am updating my dataset and model, as more data gets publicly accessible. I am looking for a better method to evaluate the entire test set. <br>
 * I discovered that my model loss is spiking at the end of training and I am looking for a possible solution.
 NOTE: If anybody got better metrics than me, please do share your knowledge after all Knowledge is Sharing!!
