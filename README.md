@@ -23,11 +23,15 @@ Go ahead and download the training and testing dataset from the link given<br> [
 | VGG16 |<img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/VGG16-model_loss.png" width="300"> | <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/VGG16-model_accuracy.png" width="300"> |
   
 ## 📋 Conclusion : 
-To this end, I am making my code, model, and results available here [Code](https://jovian.ml/v-snehith999/corona-pneumonia-normal-keras).
-<br>
-* Due to time constraints, I am unable to implement all of my thoughts, but I am planning out to make an end-to-end heroku application<br>
-* I am figuring out different architectures and introspecting why some are not giving great results.
-* Version 2 Data set is taken in the month on the end of July month. I will keep updating dataset as more and more data gets open-sourced.
+* To this end, I am making my code, model, and results available here [Code](https://jovian.ml/v-snehith999/corona-pneumonia-normal-keras).
+* Out of three models(Custom model, VGG 16, ResNet50), Custom model and VGG16 are performing better.
+* Wise picking of Augmentation features lead to robust dataset generation.
+* Introducing Batch Normalization would uplift model performance.
+
+## 📎Future Actions :
+* Due to time constraints, I am unable to implement all of my thoughts, but I am planning out to make an end-to-end Web based application hosted on heroku<br>
+* Updating datasets as per the avilability. 
+* Version-2 dataset is collected during the July month-end. I will keep updating dataset as more and more data gets open-sourced.
 NOTE: If anybody got better metrics than me, please do share your knowledge after all Knowledge is Sharing!!
 
 ## 🙏 Disclaimer
