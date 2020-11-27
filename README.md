@@ -44,3 +44,4 @@ NOTE: If anybody got better metrics than me, please do share your knowledge afte
 
 ## 🙌 References: 
 https://towardsdatascience.com/using-deep-learning-to-detect-ncov-19-from-x-ray-images-1a89701d1acd
+https://jovian.ai/v-snehith999/covid19-training-different-models-v2
