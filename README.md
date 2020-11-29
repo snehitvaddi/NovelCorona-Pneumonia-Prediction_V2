@@ -1,4 +1,3 @@
-=======
 # COVID-19 / Pneumonia /Normal Prediction Version-2.
 
 Predicting Noval Corona, Pneumonia, Healthy from X-ray scans using Keras and Scikit Learn.
