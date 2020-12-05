@@ -24,7 +24,7 @@ Detailed blog on working and implementation: [Medium Blog](https://v-snehith999.
 | VGG16 |<img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/VGG16-model_loss.png" width="300"> | <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/VGG16-model_accuracy.png" width="300"> |
   
 ## 📋 Conclusion : 
-* To this end, I am making my code, model, and results available here [Code](https://jovian.ml/v-snehith999/corona-pneumonia-normal-keras).
+* To this end, I am open sourcing  my code, model, and results. You can access it here: [Code](https://jovian.ml/v-snehith999/corona-pneumonia-normal-keras).
 * Out of three models(Custom model, VGG 16, ResNet50), Custom model and VGG16 are performing better.
 * Wise picking of Augmentation features lead to robust dataset generation.
 * Introducing Batch Normalization would uplift model performance.
