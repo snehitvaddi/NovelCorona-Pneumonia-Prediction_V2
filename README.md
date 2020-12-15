@@ -29,19 +29,19 @@ Detailed blog on working and implementation: [Medium Blog](https://v-snehith999.
 * Wise picking of Augmentation features lead to robust dataset generation.
 * Introducing Batch Normalization would uplift model performance.
 
-## Future Actions :
+### Future Actions :
 * Due to time constraints, I am unable to implement all of my thoughts, but I am planning out to make an end-to-end Web based application hosted on heroku<br>
 * Updating datasets as per the avilability. 
 * Version-2 dataset is collected during the July month-end. I will keep updating dataset as more and more data gets open-sourced.
 NOTE: If anybody got better metrics than me, please do share your knowledge after all Knowledge is Sharing!!
 
-## Disclaimer
+### Disclaimer
 <i>This blog post on COVID-19 prediction is a proof-of-concept and for educational purposes only. It is not meant to replace professional medical advice.</i>
 
-## Author:
+### Author:
 <b>Linkedin</b>: https://www.linkedin.com/in/snehit-vaddi-73a814158/ <br>
 <b>Github</b>: https://github.com/snehitvaddi
 
-## ðŸ™Œ References: 
+### References: 
 https://towardsdatascience.com/using-deep-learning-to-detect-ncov-19-from-x-ray-images-1a89701d1acd
 https://jovian.ai/v-snehith999/covid19-training-different-models-v2
