@@ -1,7 +1,7 @@
 ## ⚡ COVID-19 / Pneumonia /Normal Prediction Version-2.
 
-Predicting Noval Corona, Pneumonia, Healthy from X-ray scans using Keras and Scikit Learn.
-Right now the world is in the fear of Noval Coronavirus (COVID-19). By this time, there are approximately 3.12 Million. The COVID-19  virus spreads by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. This could happen either by direct close contact with an infected person or by indirect contact like the droplets on surfaces and clothes.
+Predicting Noval Corona, Pneumonia, Healthy from X-ray scans using Keras and Scikit Learn.<br>
+Right now the world is in the fear of Noval Coronavirus (COVID-19). By this time, there are approximately 3.12 Million. The COVID-19  virus spreads by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. This could happen either by direct close contact with an infected person or by indirect contact like the droplets on surfaces and clothes.<br>
 
 
 In this project, I am using X-ray images to analyze the health of the patient lungs since COVID-19 attacks the epithelial cells (cells that come from surfaces of the respiratory tract) and X-ray scans are easy to get than CT scans. <br>
@@ -9,7 +9,8 @@ In this project, I am using X-ray images to analyze the health of the patient lu
 ### 📁 Dataset
 Go ahead and download the training and testing dataset from the link given<br> 
 [Drive Link - https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB](https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB).<br>
-Detailed blog on working and implementation: [Medium Blog](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5)
+Detailed blog on working and implementation: `[Medium Blog](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5)`
+
 ### 🗃 Directory structure 
 <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Healthy-Prediction/blob/master/dataset/dir.PNG" width="400">
 
