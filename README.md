@@ -13,6 +13,10 @@ Go ahead and download the training and testing dataset from the link given<br>
 [Drive Link - https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB](https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB).<br>
 Detailed blog on working and implementation: [`Medium Blog`](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5)
 
+| 📂 Dataset |  📑 Blog   |
+|:-:|:-:|
+|[Dataset](https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB)| [Medium](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5) |
+
 ### 🗃 Directory structure 
 <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Healthy-Prediction/blob/master/dataset/dir.PNG" width="400">
 
@@ -21,8 +25,8 @@ Detailed blog on working and implementation: [`Medium Blog`](https://v-snehith99
 
 ### ⚖ Model evaluation and Visualization
 
-|    📈 Model     |  🛠  model_loss   |   💡  model_acc    |
-|--------------|------------------|------------------|
+|   📈 Model     |  🛠  model_loss   |   💡  model_acc    |
+|------------------|------------------|------------------|
 | Custom Model|<img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/Custom-model_loss.png" width="300"> | <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/Custom-model_accuracy.png" width="300"> |
 | RESNET50|<img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/RESNET50-model_loss.png" width="300"> | <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/ResNet50-model_accuracy.png" width="300"> |
 | VGG16 |<img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/VGG16-model_loss.png" width="300"> | <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/Evaluation%20Graphs/VGG16-model_accuracy.png" width="300"> |
