@@ -9,10 +9,10 @@ The COVID-19  virus spreads by droplets produced as a result of coughing or snee
 ![Output](https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/dataset/WhatsApp%20Image%202020-12-18%20at%2010.29.16%20PM.jpeg)
 The trained model is deployed using Streamlit module on local system.
 ### 📁 Dataset
-Go ahead and download the training and testing dataset from the link given<br> 
+* Go ahead and download the training and testing dataset from the link given<br> 
 [Drive Link - https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB](https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB).<br>
-_**Note:** This is an year old dataset that I have managed to collect. Rightnow there are n number of standerdized datasets avilable online. A quick google seach will do the work._
-Detailed blog on working and implementation: [`Medium Blog`](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5)
+_**Note:** This is an year old dataset that I have managed to collect. Rightnow there are n number of standerdized datasets avilable online. A quick google seach will do the work._<br> 
+* Detailed blog on working and implementation: [`Medium Blog`](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5)
 
 | 📂 Dataset |  📑 Blog   |
 |:-:|:-:|
