@@ -6,7 +6,7 @@ In this project, I am using X-ray images to analyze the health of the patient lu
 The COVID-19  virus spreads by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. This could happen either by direct close contact with an infected person or by indirect contact like the droplets on surfaces and clothes.<br>
 
 ### 🌀 Application Interface 
-![Output](https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/streamlit-output.jpeg)
+![Output](https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/dataset/WhatsApp%20Image%202020-12-18%20at%2010.29.16%20PM.jpeg)
 The trained model is deployed using Streamlit module on local system.
 ### 📁 Dataset
 Go ahead and download the training and testing dataset from the link given<br> 
