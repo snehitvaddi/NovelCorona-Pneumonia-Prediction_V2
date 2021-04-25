@@ -49,7 +49,7 @@ NOTE: If anybody got better metrics than me, please do share your knowledge afte
 <i>This blog post on COVID-19 prediction is a proof-of-concept and for educational purposes only. It is not meant to replace professional medical advice.</i>
 
 ### ✍ Author:
-<b>Linkedin</b>: https://www.linkedin.com/in/snehit-vaddi-73a814158/ <br>
+<b>Linkedin</b>: https://www.linkedin.com/in/snehitvaddi/ <br>
 <b>Github</b>: https://github.com/snehitvaddi
 
 ### 📑 References: 
