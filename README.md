@@ -11,13 +11,13 @@ The COVID-19  virus spreads by droplets produced as a result of coughing or snee
 The trained model is deployed using Streamlit module on local system.
 ### 📁 Dataset
 * Go ahead and download the training and testing dataset from the link given<br> 
-[Drive Link - https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB](https://drive.google.com/drive/folders/1aA-RK0ImIAtKkGqg_-I0rAOsEOZRSSQZ?usp=sharing).<br>
+[Drive Link](https://drive.google.com/drive/folders/1aA-RK0ImIAtKkGqg_-I0rAOsEOZRSSQZ?usp=sharing).<br>
 _**Note:** This is an year old dataset that I have managed to collect. Rightnow there are n number of standerdized datasets avilable online. A quick google seach will do the work._<br> 
 * Detailed blog on working and implementation: [`Medium Blog`](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5)
 
 | 📂 Dataset |  📑 Blog   |
 |:-:|:-:|
-|[Dataset](https://drive.google.com/open?id=1wwXhV2pNJjGdC4dsMz3NQxfhojthUbeB)| [Medium](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5) |
+|[Dataset](https://drive.google.com/drive/folders/1aA-RK0ImIAtKkGqg_-I0rAOsEOZRSSQZ?usp=sharing)| [Medium](https://v-snehith999.medium.com/covid-19-pneumonia-prediction-using-deep-learning-3fcddba12df5) |
 
 ### 🗃 Directory structure 
 <img src="https://github.com/snehitvaddi/NovelCorona-Pneumonia-Healthy-Prediction/blob/master/dataset/dir.PNG" width="400">
