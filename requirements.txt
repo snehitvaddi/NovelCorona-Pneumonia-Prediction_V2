@@ -4,6 +4,6 @@ opencv-contrib-python==4.1.2.30
 streamlit==1.0.0
 Pillow==9.0.1
 matplotlib==3.2.1
-numpy==1.18.5
+numpy==1.21.0
 flask==1.1.2
 gevent==21.1.2
