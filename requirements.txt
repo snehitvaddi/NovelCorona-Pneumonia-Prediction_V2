@@ -1,4 +1,4 @@
-tensorflow==2.5.3
+tensorflow==2.6.*
 opencv-python==4.2.0.32
 opencv-contrib-python==4.2.0.32
 streamlit==1.0.0
